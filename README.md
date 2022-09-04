@@ -1,5 +1,5 @@
 # Aether Theme for Visual Studio Code
-This repo contains my custom vscode theme using a slightly modified version of the [https://github.com/ilham25/dotfiles-openbox](aether color scheme).
+This repo contains my custom vscode theme using a slightly modified version of the [aether color scheme](https://github.com/ilham25/dotfiles-openbox).
 
 ![Showcase](./showcase.PNG)
 
