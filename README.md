@@ -1,7 +1,7 @@
 # Aether Theme for Visual Studio Code
 This repo contains my custom vscode theme using a slightly modified version of the aether color scheme.
 
-![Showcase](./showcase.png)
+![Showcase](./showcase.PNG)
 
 ## Installation
 Copy the 'pyxodan.aether-xxx' (xxx stands for the current version) folder into your vscode extension directory.
