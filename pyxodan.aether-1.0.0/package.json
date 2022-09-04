@@ -1,0 +1,33 @@
+{
+	"name": "Aether",
+	"displayName": "Aether",
+	"description": "Aether Dark Theme",
+	"version": "0.0.1",
+	"publisher": "pyxodan",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Aether",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aether.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "pyxodan",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1661637258527
+	}
+}
